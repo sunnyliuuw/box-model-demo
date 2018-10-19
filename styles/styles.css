@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+body {color: red;
+}
+img {
+  border: 2px dashed orange;
+  width: 25%;
+}
