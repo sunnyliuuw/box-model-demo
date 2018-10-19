@@ -1,9 +1,14 @@
 * {
   box-sizing: border-box;
 }
-body {color: red;
+body {
+  color: red;
+  background-image: url('../img/tree-top.giraffe.png');
 }
 img {
   border: 2px dashed orange;
   width: 25%;
+  padding: 0.5rem;
+  margin: 1rem;
+  border: 1rem;
 }
